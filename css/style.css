@@ -41,6 +41,9 @@ width:100%;
 .main{
   position: relative;
   padding-top: 100px;
+  height: 52vh;
+  width: 100vw;
+
 }
 .lerative__img1{
   position: relative;
@@ -55,14 +58,14 @@ width:100%;
 }
 .absolute__text{
   position:absolute;
-  top:480%;
+  top: 85%;
   font-size:55px;
   font-weight: lighter;
 }
 .absolute__img2{
   position: absolute;
-  top:550%;
+  top:95%;
   background-color:darkblue;
   width: 80%;
-  height: 180%;
+  height: 30%;
 }
